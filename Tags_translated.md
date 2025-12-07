@@ -385,7 +385,7 @@
 | menstruation | 经血 |
 | mermaid | 美人鱼 |
 | merman | 人鱼 |
-| mesugaki | 雄小鬼 |
+| mesugaki | 雌小鬼 |
 | mesuiki | 干高潮 |
 | metal armor | 金属盔甲 |
 | midget | 侏儒 |

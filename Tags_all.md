@@ -1862,7 +1862,7 @@
 | merman | 人鱼 |
 | merry melody line | - |
 | merulu ilum | - |
-| mesugaki | 雄小鬼 |
+| mesugaki | 雌小鬼 |
 | mesuiki | 干高潮 |
 | metal armor | 金属盔甲 |
 | meteor sugar | - |
